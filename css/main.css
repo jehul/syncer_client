@@ -1,0 +1,13 @@
+body {
+  font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+  font-size: 80%;
+}
+
+.container {
+  padding: 1rem;
+  width: 20rem;
+}
+
+.form-control {
+  margin-top: 1rem;
+}
